@@ -70,6 +70,7 @@ main {
 
 .links {
     text-align: center;
+    align-items: center;
 }
 
 .links button {
@@ -84,9 +85,7 @@ main {
     font-weight: 700;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .links button:hover {
